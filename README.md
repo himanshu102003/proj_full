@@ -43,10 +43,10 @@ A simple shopping cart system built with React & NodeJS that allows users to bro
 ## Project Structure
 
 - `/src/components/` - React components
-  - `ProductList.js` - Displays available products
-  - `Cart.js` - Shopping cart management
-  - `Checkout.js` - Checkout form with validation
-  - `OrderConfirmation.js` - Order confirmation page
+  - `Cart_hari.js` - Shopping cart management
+  - `ProductList_hari.js` - Displays available products
+  - `Checkout_hari.js` - Checkout form with validation
+  - `OrderConfirmation_hari.js` - Order confirmation page
 - `/server/` - Backend API
   - `server.js` - Express server with product endpoints
 
@@ -54,18 +54,9 @@ A simple shopping cart system built with React & NodeJS that allows users to bro
 
 - GET `/api/products` - Fetch all available products
 
-## Anti-Plagiarism Measures
-
-This project follows strict anti-plagiarism guidelines:
-- Custom component implementation
-- Proper code documentation
-- Unique styling and layout
-- Original product data
-- Custom form validation logic
-
 ## Author
 
-[Your Name]
+[Himanshu]
 
 ## License
 
