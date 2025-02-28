@@ -2,6 +2,24 @@
 
 A simple shopping cart system built with React & NodeJS that allows users to browse products, manage their cart, and complete checkout.
 
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.png)
+Shows the product listing with "Add to Cart" functionality.
+
+### Shopping Cart
+![Shopping Cart](./screenshots/cart.png)
+Displays the cart with product quantities and total price.
+
+### Checkout Form
+![Checkout Form](./screenshots/checkout.png)
+Shows the checkout form with validation.
+
+### Order Confirmation
+![Order Confirmation](./screenshots/confirmation.png)
+Displays the order confirmation with order details.
+
 ## Features
 
 - View products fetched from backend API
